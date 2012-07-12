@@ -9,6 +9,8 @@ namespace TestGithub
         static void Main(string[] args)
         {
             Console.WriteLine("Heloo world !");
+            Console.WriteLine("Heloo world !");
+            Console.WriteLine("Updated code ");
         }
     }
 }
