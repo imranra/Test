@@ -11,6 +11,8 @@ namespace TestGithub
             Console.WriteLine("Heloo world !");
             Console.WriteLine("Heloo world !");
             Console.WriteLine("Updated code ");
+
+            Console.WriteLine("Heloo world !");
         }
     }
 }
